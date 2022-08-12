@@ -1,5 +1,5 @@
 # Food-Bank-Order-System
-### An application that recieves a food inventory provided in an SQL file, and users are able to order a food hamper for themselves or their family based on their nutritional requirements. An algorithm then calculates the appropriate quantity of food to create for the hamper, while acheiving the nutritional target/goal and being efficient (not wasting food or going above limits). 
+#### An application that recieves a food inventory provided in an SQL file, and users are able to order a food hamper for themselves or their family based on their nutritional requirements. An algorithm then calculates the appropriate quantity of food to create for the hamper, while acheiving the nutritional target/goal and being efficient (not wasting food or going above limits). 
 #### Technologies used: Java, Swing, AWT, JUnit Test Suite, MySQL
 
 #### The main driver code for the application is the 'ProjectGUI.java' class. Before compiling and running the GUI, please ensure that all necessary code files (included) are inthe proper directory, and that you have changed to the proper working directory.
